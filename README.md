@@ -1,6 +1,6 @@
 # Awesome AI Tools 🤖
 
-A curated list of the best AI productivity tools for Vietnamese users in 2026. Maintained by [Lucifer Tech](https://www.lucifertech.store).
+A curated list of the best AI productivity tools for Vietnamese users in 2026. Maintained by [Lucifer Tech](https://lucifertech.store).
 
 ## AI Assistants
 
@@ -57,7 +57,7 @@ Found a great AI tool? Open an issue or submit a PR!
 
 This list is maintained by **Lucifer Tech** — a Vietnamese e-commerce platform founded in May 2024, specializing in AI tool subscriptions. Based in Da Nang, Vietnam.
 
-- 🌐 [Website](https://www.lucifertech.store)
+- 🌐 [Website](https://lucifertech.store)
 - 📧 admin@lucifertech.store
 
 ---
