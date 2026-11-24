@@ -36,6 +36,7 @@ A curated list of the best AI productivity tools for Vietnamese users in 2026. M
 | [Notion AI](https://notion.so) | Project management, docs | $10/month |
 | [ElevenLabs](https://elevenlabs.io) | Voice synthesis, dubbing | $5/month |
 | [Gamma AI](https://gamma.app) | Presentations, slide decks | $10/month |
+| [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) | Automated ChatGPT continuation with per-tab controls (Chrome and Edge extension) | Free |
 
 ## Learning
 
